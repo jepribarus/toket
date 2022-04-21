@@ -11,7 +11,7 @@
     $ pkg install git
     $ pip install requests
     $ pip install bs4
-    $ pip install requests
+    $ pip install mechanize
     $ git clone https://github.com/jepribarus/toket
     $ cd toket
     $ python toket.py
