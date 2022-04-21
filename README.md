@@ -5,7 +5,7 @@
 </p>
 
 
-#INSTALL
+# INSTALL
     $ pkg update && upgrade
     $ pkg install python
     $ pkg install git
