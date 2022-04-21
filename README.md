@@ -16,5 +16,14 @@
     $ cd toket
     $ python toket.py
 
-# Warning Warna Kuning kuning
-    Buy Lisensi To WhatsApp In Tools
+# CARA MENGGUNAKAN
+    1.Buat Halaman Baru Akun Tumbal Di Fb Lite
+    2.Posting 1 Status Di Halaman Baru Yang Di Buat
+    3.Login Akun tumbal Di Kiwi Browser
+    4.Download Extensions Cookiedough di Kiwi Browser
+    5.Salin Cookie Masukan Di "GET TOKEN"
+    6.Token Anda Akan Di Dapatkan Melalui WhatsApp
+
+
+# Link Download Extensions Cookiedough
+https://chrome.google.com/webstore/detail/get-facebook-access-token/coaoigakadjdinfmepjlhfiichelcjpn
