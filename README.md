@@ -5,27 +5,16 @@
 </p>
 
 
-# WARNING
-    •Jika Pakai WiFi harap Slalu mainkan mode pesawat
-    •Wifi gampang kena spam ip
-    •Hasil Crack Tidak Ada/Tidak Banyak
-    •Di sarankan memakai Data Seluler
-
-# Use Install
+#INSTALL
     $ pkg update && upgrade
     $ pkg install python
     $ pkg install git
     $ pip install requests
-    $ pip install stdiomask
     $ pip install bs4
-    $ pip install simplejson
     $ pip install requests
-    $ pip install futures
-    $ pip install rich
-    $ git clone https://github.com/jepribarus/barus
-    $ cd barus
-    $ git pull
-    $ python barus.py
+    $ git clone https://github.com/jepribarus/toket
+    $ cd toket
+    $ python toket.py
 
 # Warning Warna Kuning kuning
     Buy Lisensi To WhatsApp In Tools
